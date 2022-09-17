@@ -1,20 +1,11 @@
 {
-  "name": "codesandbox",
+  "name": "node template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-    
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/urlun0404/codesandbox.git"
-  },
-  "author": "",
+  "author": "urlun0404",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/urlun0404/codesandbox/issues"
-  },
-  "homepage": "https://github.com/urlun0404/codesandbox#readme"
 }
