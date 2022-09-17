@@ -1,0 +1,6 @@
+{
+  "infiniteLoopProtection": true,
+  "view": "terminal",
+  "template": "node",
+  "node": "16"
+}
