@@ -1,0 +1,23 @@
+{
+  "name": "codesandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urlun0404/codesandbox.git"
+  },
+  "author": "urlun0404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urlun0404/codesandbox/issues"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.18",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.3"
+  }
+}

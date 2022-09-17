@@ -1,0 +1,5 @@
+*.docx
+*.tmp
+*.pdf
+
+node_modules/
